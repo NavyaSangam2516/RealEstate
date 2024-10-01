@@ -1,12 +1,13 @@
 :root {
-  --primary: #1f3e72;
-  --secondary: rgba(255, 255, 255, 0.78);
-  --black: #131110;
-  --blue-gradient: linear-gradient(97.05deg, #4066ff 3.76%, #2949c6 100%);
+  --primary: #bada7a;
+  /* --secondary: rgba(255, 255, 255, 0.78); */
+  --secondary: #516b1d;
+  --black:  #163959;
+  --green-gradient: linear-gradient(97.05deg, #bada7a 3.76%, #516b1d 100%);
   --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
-  --blue: #4066ff;
-  --lightBlue: #eeeeff;
-  --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
+  --blue:#b6f191;
+  --lightBlue: #dedede;
+  --shadow: 0px 23px 21px -8px rgba(131, 138, 167, 0.25);
 }
 
 * {
@@ -80,6 +81,19 @@ a {
   color: orange;
   font-size: 1.5rem;
   font-weight: 600;
+}
+
+.button{
+  font-weight: 500;
+  padding: 0.5rem 1.4rem;
+  color: white;
+  background:var(--green-gradient);
+  border-radius: 4px;
+  transition: all 300ms ease-in;
+}
+.button:hover{
+  cursor: pointer;
+  transform: scale(1.1);
 }
 
 /* media queries */

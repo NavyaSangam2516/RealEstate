@@ -1,37 +1,37 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "CPM Services",
+    "price": "3.8",
+    "detail": "Construction project management services oversee the planning, coordination, and execution of construction projects, ensuring they are completed on time, within budget, and to quality standards",
+    "image": "./S1.jpg"
+  },
+  {
+    "name": "CMS Services",
+    "price": "6.4",
+    "detail": "Construction material supply involves providing essential materials like cement, steel, wood, and other building supplies needed for construction projects.",
+    "image": "./S2.webp"
+  },
+  {
+    "name": "PM services",
+    "price": "3.5",
+    "detail": "Pre-construction services involve planning, design, budgeting, and feasibility assessments to prepare a construction project for successful execution.",
+    "image": "./S3.jpg"
+  },
+  {
+    "name": "ID Services",
+    "price": "4.7",
+    "detail": "Interior design services create aesthetically pleasing and functional indoor spaces through careful selection of materials, colors, furnishings, and layouts.",
+    "image": "./S4.jpg"
   },
   {
     "name": "Asatti Garden City",
-    "price": "66,353",
+    "price": "6.7",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
     "image": "./r2.png"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
-  },
-  {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
-  },
-  {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
+    "price": "3.5",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
     "image": "./r3.png"
   }
